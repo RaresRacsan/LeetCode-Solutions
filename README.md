@@ -1,1 +1,1 @@
-Solutions for 30 days of JavaScript.
+Solutions for problems from leetcode.
